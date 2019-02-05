@@ -10,7 +10,7 @@
 	
 <body>
     <div class="container">
-	    <li><a target='_blank' href='https://twiggster.github.io/database/'>	
+	    <li><a href='https://twiggster.github.io/database/'>	
     		<div class="row">	
     			<h3>PHP CRUD Grid</h3>
     		</div>
